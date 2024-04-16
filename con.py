@@ -1,11 +1,18 @@
 import mysql.connector
 
 con = mysql.connector.connect(
-    host='localhost',
-    database='db_MeusLivros',
-    user='fbigal',
-    password='Fbc#15111978'
-    )
+    host="localhost",
+    user="fbigal",
+    password="Fcb#91820460",
+    database="db_MeusLivros"
+)
+except mysql.connector.Error as err:
+    print("Erro de conexão:", err)
+
+finally:
+    if con:
+        con.close()  # Feche a conexão se for bem-sucedida
+        print("Conexão fechada.")
 
 if con.is_connected():
     db_info = con.get_server_info()
