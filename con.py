@@ -6,13 +6,6 @@ con = mysql.connector.connect(
     password="Fcb#91820460",
     database="db_MeusLivros"
 )
-except mysql.connector.Error as err:
-    print("Erro de conexão:", err)
-
-finally:
-    if con:
-        con.close()  # Feche a conexão se for bem-sucedida
-        print("Conexão fechada.")
 
 if con.is_connected():
     db_info = con.get_server_info()
@@ -26,4 +19,3 @@ if con.is_connected():
     cursor.close()
     con.close()
     print('conexão ao mysql foi encerrada')
-
