@@ -16,4 +16,5 @@ Curso de Python
 ## Tipos de dados em Python - Curso de Python #04
 ## Tipos numéricos, random e operações de casting - Curso de Python #05
 ## Strings P1 - Curso de Python #06
+## Strings P2 - Curso de Python #07
 
