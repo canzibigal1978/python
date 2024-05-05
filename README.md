@@ -17,4 +17,5 @@ Curso de Python
 ## Tipos numéricos, random e operações de casting - Curso de Python #05
 ## Strings P1 - Curso de Python #06
 ## Strings P2 - Curso de Python #07
+## Tipo Boolean - Curso de Python #08
 
