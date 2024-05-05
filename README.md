@@ -14,4 +14,5 @@ Curso de Python
 ## Sintaxe básica P2 e Comentários - Curso de Python #02
 ## Variáveis em Python - Curso de Python #03
 ## Tipos de dados em Python - Curso de Python #04
+## Tipos numéricos, random e operações de casting - Curso de Python #05
 
