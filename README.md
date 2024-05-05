@@ -13,4 +13,5 @@ Curso de Python
 ## Instalação e primeiro programa - Curso de Python #01
 ## Sintaxe básica P2 e Comentários - Curso de Python #02
 ## Variáveis em Python - Curso de Python #03
+## Tipos de dados em Python - Curso de Python #04
 
