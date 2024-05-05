@@ -18,4 +18,5 @@ Curso de Python
 ## Strings P1 - Curso de Python #06
 ## Strings P2 - Curso de Python #07
 ## Tipo Boolean - Curso de Python #08
+## Coleção List - Curso de Python #09
 
