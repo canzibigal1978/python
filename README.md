@@ -19,4 +19,5 @@ Curso de Python
 ## Strings P2 - Curso de Python #07
 ## Tipo Boolean - Curso de Python #08
 ## Coleção List - Curso de Python #09
+## Como usar o comando IF em Python - Curso de Python #10
 
