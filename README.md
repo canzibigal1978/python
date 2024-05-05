@@ -15,4 +15,5 @@ Curso de Python
 ## Variáveis em Python - Curso de Python #03
 ## Tipos de dados em Python - Curso de Python #04
 ## Tipos numéricos, random e operações de casting - Curso de Python #05
+## Strings P1 - Curso de Python #06
 
